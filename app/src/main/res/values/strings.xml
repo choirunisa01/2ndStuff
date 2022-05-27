@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">2ndStuff</string>
+
+    <string-array name="list">
+        <item>Fakultas MIPA</item>
+        <item>Fakultas Hukum</item>
+        <item>Fakultas Ekonomi dan Bisnis</item>
+        <item>Fakultas FISIP</item>
+        <item>Fakultas Kedokteran</item>
+        <item>Fakultas Kedokteran Gigi</item>
+        <item>Fakultas Kedokteran Hewan</item>
+        <item>Fakultas KIP</item>
+        <item>Fakultas Pertanian</item>
+        <item>Fakultas Kelautan dan Perikanan</item>
+        <item>Fakultas Keperawatan</item>
+        <item>Fakultas Teknik</item>
+    </string-array>
+
+</resources>
